@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557925867750",
+    "firebase_url": "https://ludofriends-b9457-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ludofriends-b9457",
+    "storage_bucket": "ludofriends-b9457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557925867750:android:d2c44dfa3d89068387db27",
+        "android_client_info": {
+          "package_name": "com.gamepatty.ludofriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557925867750-haspqf1ss0hl7qd5v83fhc2dtqo211du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamepatty.ludofriends",
+            "certificate_hash": "588f14e6746e58686bfe6ebd8927b4ff8f878282"
+          }
+        },
+        {
+          "client_id": "557925867750-dssfi1tm26tjkfqpqih6215d4affl3dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMl6LiM_OdRYFsYVxNM3pk4O-PdxoBkj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557925867750-dssfi1tm26tjkfqpqih6215d4affl3dg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557925867750-te0hh499tl3pst9btb8mj7lvlf06f45m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gamepatty.ludofriends"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+/// @description
+GMLiveSet
+
+avtarIndex = playerAvtarSprite;

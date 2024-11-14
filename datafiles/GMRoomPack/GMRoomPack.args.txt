@@ -1,0 +1,3 @@
+D:/GitHub/ludo/rooms/rm_pop*
+D:/GitHub/ludo/scripts/__PopUpData/__PopUpData.gml
+--watch
